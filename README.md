@@ -38,7 +38,7 @@ git init
 git status
 git add .
 git rm --cached <file>  [to unstage]
-
+git rm --cached -r .
 
 ```
 
